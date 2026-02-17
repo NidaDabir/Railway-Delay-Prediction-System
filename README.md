@@ -84,7 +84,8 @@ The dashboard provides interactive visual insights including:
 
 📷 Dashboard Preview:
 
-![Dashboard](Railway Delay dashboard Image.png)
+![Dashboard](dashboard.png)
+
 
 ---
 
